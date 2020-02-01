@@ -7,8 +7,8 @@ namespace GitTest
         static void Main(string[] args)
         {
             Console.WriteLine("Something");
-            
             int a = 7;
+            int b = 8;
         }
     }
 }
